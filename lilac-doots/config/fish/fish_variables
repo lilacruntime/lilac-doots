@@ -18,4 +18,3 @@ SETUVAR fish_color_selection:\x2d\x2dbackground\x3d\x23005046
 SETUVAR fish_color_valid_path:\x2d\x2dunderline
 SETUVAR fish_greeting:
 SETUVAR fish_pager_color_selected_background:\x2d\x2dbackground\x3d\x23252b2a
-SETUVAR fish_user_paths:/home/lilac/\x2elocal/bin

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+lilac-doots/config/vesktop/*
+!lilac-doots/config/vesktop/themes/
+lilac-doots/config/spotify/
+lilac-doots/config/qutebrowser/autoconfig.yml
+lilac-doots/config/qutebrowser/qsettings/
+*.zip
